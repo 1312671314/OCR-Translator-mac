@@ -8,6 +8,13 @@
 - Python 3.11 或更高版本
 - 4GB RAM（推荐 8GB）
 
+## 测试环境
+
+本 macOS 适配版本已在以下设备上测试通过：
+- **MacBook Pro M3 Pro Max**
+- macOS Sequoia 或更高版本
+- Python 3.11+
+
 ## 安装步骤
 
 ### 1. 安装 Homebrew（如果还没有）
@@ -340,8 +347,17 @@ python main.py
 
 ## 技术支持
 
-- 原项目：[OCR-Translator](https://github.com/tomkam1702/OCR-Translator)
+- 原项目：[OCR-Translator](https://github.com/tomkam1702/OCR-Translator) by [Tomasz Kamiński](https://github.com/tomkam1702)
+- macOS 适配版本：[OCR-Translator-mac](https://github.com/1312671314/OCR-Translator-mac)
 - macOS 适配问题：查看本文档或提交 Issue
+
+## 适配说明
+
+本项目是原 Windows 版本的 macOS 适配版本，主要适配工作包括：
+- ✅ macOS 屏幕截图权限处理
+- ✅ Tesseract OCR 路径适配（Apple Silicon / Intel）
+- ✅ tkinter GUI 在 macOS 上的兼容性优化
+- ✅ 在 MacBook Pro M3 Pro Max 上测试通过
 
 ## 许可证
 

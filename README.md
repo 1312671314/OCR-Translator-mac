@@ -3,7 +3,7 @@ Copyright © 2025 Tomasz Kamiński
 
 ![Game-Changing Translator Logo](docs/screenshots/readme_screen.jpg)
 
-## 🌟 **[✨ Visit Our Home Page ✨](https://tomkam1702.github.io/OCR-Translator/)**
+## 🌟 **[✨ Visit Our Home Page ✨](https://1312671314.github.io/OCR-Translator-mac/)**
 **Discover why this is the world's first AI-OCR game translator with our comprehensive showcase featuring a video clip, competitive comparisons, and and all the innovative features!** 🚀
 
 ## Overview
@@ -15,8 +15,8 @@ This project was inspired by a family member who was learning French by playing 
 This application was developed or rather vibe-coded with the support of the following AI models: Claude 3.7 Sonnet, Claude Sonnet 4 and Gemini 2.5 Pro.
 
 ## Game-Changing Translator Gallery
-  - [English](https://tomkam1702.github.io/OCR-Translator/docs/gallery.html)
-  - [Polish](https://tomkam1702.github.io/OCR-Translator/docs/gallery_pl.html)
+  - [English](https://1312671314.github.io/OCR-Translator-mac/docs/gallery.html)
+  - [Polish](https://1312671314.github.io/OCR-Translator-mac/docs/gallery_pl.html)
 
 ## 🎬 **See the Magic in Action!**
 
@@ -96,7 +96,7 @@ This application was developed or rather vibe-coded with the support of the foll
   
   *Experience the intuitive OpenAI integration interface - easily switch between models and configure both OCR and translation services with the same or different powerful API providers*
   
-  - Be sure to check out the **comparison between OpenAI and Gemini models** in the updated [user manual](https://tomkam1702.github.io/OCR-Translator/docs/user-manual.html#openai-api-a-flexible-alternative).
+  - Be sure to check out the **comparison between OpenAI and Gemini models** in the updated [user manual](https://1312671314.github.io/OCR-Translator-mac/docs/user-manual.html#openai-api-a-flexible-alternative).
 
 ### 🚀 NEW in Version 3.5.8
 
@@ -140,7 +140,7 @@ This application was developed or rather vibe-coded with the support of the foll
 
     ![Spanish OCR Test Sample](docs/OCR%20Test/original_20250709_225151.png)
     
-    [View detailed test results](https://tomkam1702.github.io/OCR-Translator/docs/OCR%20Test/OCR_Gemini_Test.html) showing Gemini 2.0 models' superior accuracy across multilingual content
+    [View detailed test results](https://1312671314.github.io/OCR-Translator-mac/docs/OCR%20Test/OCR_Gemini_Test.html) showing Gemini 2.0 models' superior accuracy across multilingual content
   - **Dynamic Model Configuration**: Models available for selection are controlled by `resources/gemini_models.csv` for easy customization
   - **Performance-Optimized Selection**: Choose different models for OCR vs translation based on your specific needs
 - **Enhanced API Integration**: Migration from `google.generativeai` to `google.genai` library for improved performance and stability
@@ -194,7 +194,7 @@ If you want to start using Game-Changing Translator immediately without installi
 
 ### Quick Start Options
 
-**📥 [Download from Releases](https://github.com/tomkam1702/OCR-Translator/releases)**
+**📥 [Download from Releases](https://github.com/1312671314/OCR-Translator-mac/releases)**
 
 1. Download both files.
 2. Run the .exe installer file to unpack and install the application to your preferred folder.
@@ -205,8 +205,8 @@ If you want to start using Game-Changing Translator immediately without installi
 ### Need Help?
 
 📖 **Installation Guides:**
-- [English Installation Guide](https://tomkam1702.github.io/OCR-Translator/docs/installation.html)
-- [Polish Installation Guide](https://tomkam1702.github.io/OCR-Translator/docs/installation_pl.html)
+- [English Installation Guide](https://1312671314.github.io/OCR-Translator-mac/docs/installation.html)
+- [Polish Installation Guide](https://1312671314.github.io/OCR-Translator-mac/docs/installation_pl.html)
 
 The compiled versions include everything you need - no Python installation required!
 
@@ -222,7 +222,7 @@ The compiled versions include everything you need - no Python installation requi
 
 1. Clone this repository:
    ```
-   git clone https://github.com/tomkam1702/OCR-Translator.git
+   git clone https://github.com/1312671314/OCR-Translator-mac.git
    ```
 
 2. Install required Python packages:
@@ -235,7 +235,7 @@ The compiled versions include everything you need - no Python installation requi
    python main.py
    ```
 
-For detailed installation instructions, see the [Installation Guide](https://tomkam1702.github.io/OCR-Translator/docs/installation.html).
+For detailed installation instructions, see the [Installation Guide](https://1312671314.github.io/OCR-Translator-mac/docs/installation.html).
 
 ## Quick Start
 
@@ -246,19 +246,19 @@ For detailed installation instructions, see the [Installation Guide](https://tom
 5. Click "Start" to begin translation
 6. Press the `~` key to toggle translation on/off
 
-For more detailed usage instructions, see the [User Manual](https://tomkam1702.github.io/OCR-Translator/docs/user-manual.html).
+For more detailed usage instructions, see the [User Manual](https://1312671314.github.io/OCR-Translator-mac/docs/user-manual.html).
 
 ## Documentation
 
 - **User Manual** 
-  - [English](https://tomkam1702.github.io/OCR-Translator/docs/user-manual.html) 
-  - [Polish](https://tomkam1702.github.io/OCR-Translator/docs/user-manual_pl.html)
+  - [English](https://1312671314.github.io/OCR-Translator-mac/docs/user-manual.html) 
+  - [Polish](https://1312671314.github.io/OCR-Translator-mac/docs/user-manual_pl.html)
 - **Installation Guide** 
-  - [English](https://tomkam1702.github.io/OCR-Translator/docs/installation.html) 
-  - [Polish](https://tomkam1702.github.io/OCR-Translator/docs/installation_pl.html)
+  - [English](https://1312671314.github.io/OCR-Translator-mac/docs/installation.html) 
+  - [Polish](https://1312671314.github.io/OCR-Translator-mac/docs/installation_pl.html)
 - **Game-Changing Translator Gallery**
-  - [English](https://tomkam1702.github.io/OCR-Translator/docs/gallery.html)
-  - [Polish](https://tomkam1702.github.io/OCR-Translator/docs/gallery_pl.html)
+  - [English](https://1312671314.github.io/OCR-Translator-mac/docs/gallery.html)
+  - [Polish](https://1312671314.github.io/OCR-Translator-mac/docs/gallery_pl.html)
 - **Troubleshooting** 
   - [English](docs/troubleshooting.md)
 - **Developer Guide** 
@@ -297,4 +297,13 @@ Please note that this project is considered feature-complete. If you wish to mak
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![Attribution Required](https://img.shields.io/badge/Attribution-Required-red.svg)](ATTRIBUTION.md)
 [![Original Author](https://img.shields.io/badge/Original%20Author-Tomasz%20Kamiński-green.svg)](https://github.com/tomkam1702)
-# OCR-Translator-mac
+
+---
+
+## Original Project
+
+This is a macOS adaptation of the original project:
+
+**[OCR-Translator](https://github.com/tomkam1702/OCR-Translator)** by [Tomasz Kamiński](https://github.com/tomkam1702)
+
+All credit for the original concept, design, and implementation goes to the original author.
